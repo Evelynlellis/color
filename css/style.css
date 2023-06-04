@@ -1,0 +1,54 @@
+html, body {
+margin: 0%;
+padding: 0%;
+font-size: 35px;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    text-align: center;
+}
+
+#Rosa{
+  background-color: rgb(238, 10, 105);
+}
+#Rosa2{
+    background-color: rgb(219, 58, 112);
+}
+#Rosa3{
+    background-color: rgb(255, 161, 192);
+}
+
+#Roxo1{
+    background-color: rgb(106, 2, 202);
+}
+#Roxo2{
+    background-color: rgb(116, 46, 182);
+}
+
+#Roxo3{
+    background-color: rgb(124, 74, 170);
+}
+
+#Azul{
+    background-color: blue;
+}
+
+#Azul2{
+    background-color: rgb(30, 30, 180);
+}
+
+#Azul3{
+    background-color: rgb(99, 99, 250);
+}
